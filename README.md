@@ -21,6 +21,8 @@ FLOPs & Params analysis is based on fvcore:
 pip install -U 'git+https://github.com/facebookresearch/fvcore'
 ```
 
+Non-local Neural Network:
+
 ![image](https://user-images.githubusercontent.com/30970296/123436537-4d973a80-d601-11eb-8fa2-6bbc1687ca5e.png)
 
 Patch_size: 3x3
