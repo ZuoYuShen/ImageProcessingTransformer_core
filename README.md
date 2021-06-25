@@ -11,7 +11,7 @@ IPT paper: [Pre-trained Image Processing Transformer](https://arxiv.org/pdf/2012
 
 FLOPs & Params analysis (with Non-local Neural Network):
 
-Patch_size: 3$\times$3
+Patch_size: 3x3
 
 ![image](https://user-images.githubusercontent.com/30970296/123436537-4d973a80-d601-11eb-8fa2-6bbc1687ca5e.png)
 
