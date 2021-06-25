@@ -11,6 +11,16 @@ IPT paper: [Pre-trained Image Processing Transformer](https://arxiv.org/pdf/2012
 
 FLOPs & Params analysis (with Non-local Neural Network):
 
+FLOPs & Params analysis is based on fvcore:
+
+(1) [Functions](https://gist.github.com/fmassa/c0fbb9fe7bf53b533b5cc241f5c8234c)
+
+(2) fvcore installation:
+
+```
+pip install -U 'git+https://github.com/facebookresearch/fvcore'
+```
+
 ![image](https://user-images.githubusercontent.com/30970296/123436537-4d973a80-d601-11eb-8fa2-6bbc1687ca5e.png)
 
 Patch_size: 3x3
