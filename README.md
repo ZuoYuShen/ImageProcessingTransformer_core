@@ -1,5 +1,5 @@
 # IPT_core
-The core part of Image Processing Transformer(CVPR2021) in Pytorch (Test on Pytorch 1.8).
+The core part of Image Processing Transformer (CVPR2021) in Pytorch (Pytorch 1.8).
 
 The third party implmentation of the core part (Transformer) of IPT.
 
